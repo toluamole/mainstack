@@ -1,4 +1,3 @@
-import React from "react";
 import { Box, HStack, Icon, Text, VStack, Portal } from "@chakra-ui/react";
 import { MdArrowForward } from 'react-icons/md';
 import { appsMenuItems } from "@/data/appsMenu";
